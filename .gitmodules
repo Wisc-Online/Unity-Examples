@@ -1,3 +1,6 @@
 [submodule "Assets/FVTC/LearningInnovations"]
 	path = Assets/FVTC/LearningInnovations
 	url = https://github.com/Wisc-Online/Unity-Lib.git
+[submodule "Assets/FVTC/LearningInnovations-MR"]
+	path = Assets/FVTC/LearningInnovations-MR
+	url = https://github.com/Wisc-Online/Unity-Lib-MR.git
