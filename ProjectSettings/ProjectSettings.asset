@@ -578,7 +578,7 @@ PlayerSettings:
     Metro: 2
   il2cppCompilerConfiguration: {}
   incrementalIl2cppBuild: {}
-  allowUnsafeCode: 0
+  allowUnsafeCode: 1
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 0
   apiCompatibilityLevelPerPlatform: {}
@@ -606,7 +606,7 @@ PlayerSettings:
   metroSplashScreenUseBackgroundColor: 0
   platformCapabilities:
     WindowsStoreApps:
-      HumanInterfaceDevice: False
+      HumanInterfaceDevice: True
       InternetClient: False
       InternetClientServer: False
       PrivateNetworkClientServer: False
