@@ -227,7 +227,7 @@ GameObject:
   - component: {fileID: 206967590}
   - component: {fileID: 206967589}
   m_Layer: 0
-  m_Name: WindowsMixedRealityInputSource
+  m_Name: InteractionManagerHandInputSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -257,18 +257,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9469459ebe46dc94299bf1410c9135fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rightHand:
-    ThumbstickTouchButton: WMR_Thumbstick_Press_Right
-    ThumbpadTouchHorizontalButton: WMR_Thumbstick_Horizontal_Right
-    ThumbpadTouchVerticalButton: WMR_Thumbstick_Vertical_Right
-    TriggerAxis: WMR_Trigger_Right
-    GripAxis: WMR_Grip_Right
-  leftHand:
-    ThumbstickTouchButton: WMR_Thumbstick_Press_Left
-    ThumbpadTouchHorizontalButton: WMR_Thumbstick_Horizontal_Left
-    ThumbpadTouchVerticalButton: WMR_Thumbstick_Vertical_Left
-    TriggerAxis: WMR_Trigger_Left
-    GripAxis: WMR_Grip_Left
 --- !u!114 &206967590
 MonoBehaviour:
   m_ObjectHideFlags: 0
