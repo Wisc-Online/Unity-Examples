@@ -199,11 +199,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 114618272065734664, guid: fb1d82f433fdaa3469b7fe2de18c9963,
-        type: 2}
-      propertyPath: handType
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 1243782300582910, guid: fb1d82f433fdaa3469b7fe2de18c9963, type: 2}
       propertyPath: m_Name
       value: Right Hand
@@ -671,7 +666,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1243782300582910, guid: fb1d82f433fdaa3469b7fe2de18c9963, type: 2}
       propertyPath: m_Name
-      value: LeftHand
+      value: Left Hand
       objectReference: {fileID: 0}
     - target: {fileID: 4201915751924602, guid: fb1d82f433fdaa3469b7fe2de18c9963, type: 2}
       propertyPath: m_LocalScale.y
